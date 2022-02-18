@@ -1,0 +1,52 @@
+.thumbnail {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+}
+
+#overflow {
+  max-height: 79.75vh;
+  overflow-y: auto;
+}
+
+#overflow::-webkit-scrollbar {
+  width: 10px;             
+}
+
+#overflow::-webkit-scrollbar-track {
+  background: lightgray;        
+}
+
+#overflow::-webkit-scrollbar-thumb {
+  background-color: #0D6EFD;    
+  border-radius: 20px;
+}      
+
+.rating-1 {
+  position: absolute;
+  background-color: white;
+  height:fit-content;
+  border-radius: 25px;
+  bottom:100%;
+  left: 37%;
+  border-color: black;
+}
+
+.rating-3 {
+  position: absolute;
+  background-color: white;
+  height:fit-content;
+  border-radius: 25px;
+  bottom:100%;
+  left: 20%
+}
+
+.imageContainer {
+  display: inline-block;
+  width: 110px;
+  height: 110px;
+}
+
+.unselected {
+  opacity: 35%;
+}

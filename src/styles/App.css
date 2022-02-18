@@ -1,0 +1,81 @@
+.display {
+    padding: 0%;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+}
+
+.displayCol {
+    padding: 0%;
+}
+
+.container-fluid {
+    padding: 0%;
+}
+
+.displayRow {
+    height: 90vh;
+}
+
+#buttonRow {
+    height: 10vh;
+    position: relative;
+    bottom: 0;
+}
+
+.buttonCol {
+    padding: 0%;
+}
+
+#buttonRandom {
+    background-color: #0D6EFD;
+    border: none;
+    padding: 0 32px;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    float:right;
+    color: white;
+    font-size: 3.5rem;
+}
+
+#root {
+    background-color: #010A13;
+}
+
+.displayName {
+    color: white;
+    position: relative;
+    text-align: center;
+    bottom: 15%;
+    -webkit-text-stroke: 1px black;
+    font-weight: 700;
+}
+
+.appName {
+    color: white;
+    display: inline-block;
+    padding-top: 0.25%
+}
+
+#mobile {
+    display: none;
+}
+
+@media only screen and (max-width: 600px) {
+    #desktop {
+        display: none;
+    }
+    #mobile {
+        display: contents;
+    }
+}
+
+.carousel-item {
+    height: 90vh;
+}
+
+.carousel {
+    padding: 0%;
+}
