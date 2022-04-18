@@ -41,6 +41,7 @@ const Booms = (props) => {
                                 props.toggleSelected({ id: boom.id, selected: boom.selected })
                                 saveBoomsState()
                             }}
+                            loading='lazy'
                         />
                         <Rating
                             value={parseInt(boom.currentLevel)}

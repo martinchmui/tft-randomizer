@@ -50,6 +50,7 @@ const Tacticians = (props) => {
                                             props.toggleSelected({ id: tactician.id, selected: tactician.selected })
                                             saveTacticiansState()
                                         }}
+                                        loading='lazy'
                                     />
                                     <Rating
                                         value={parseInt(tactician.currentLevel)}

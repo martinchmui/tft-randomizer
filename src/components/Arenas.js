@@ -49,6 +49,7 @@ const Arenas = (props) => {
                                             props.toggleSelected({ id: arena.id, selected: arena.selected })
                                             saveArenasState()
                                         }}
+                                        loading='lazy'
                                     />
                                 </div>
                             )
