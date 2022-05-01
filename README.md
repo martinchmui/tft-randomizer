@@ -1,9 +1,9 @@
 # TFT Randomizer
 
-![](preview1.gif)
+![](previewA.gif)
 Chooses random skins for all your TFT games.
 
-![](preview2.gif)
+![](previewB.gif)
 Select the skins you want and the level they are at.
 
 ## Built With
