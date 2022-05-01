@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/tft-randomizer/static/css/main.8ffab55d.css",
+    "main.css": "/tft-randomizer/static/css/main.d2358e20.css",
     "main.js": "/tft-randomizer/static/js/main.d3927ca5.js",
     "index.html": "/tft-randomizer/index.html",
-    "main.8ffab55d.css.map": "/tft-randomizer/static/css/main.8ffab55d.css.map",
+    "main.d2358e20.css.map": "/tft-randomizer/static/css/main.d2358e20.css.map",
     "main.d3927ca5.js.map": "/tft-randomizer/static/js/main.d3927ca5.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ffab55d.css",
+    "static/css/main.d2358e20.css",
     "static/js/main.d3927ca5.js"
   ]
 }
