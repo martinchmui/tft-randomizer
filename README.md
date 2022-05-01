@@ -1,6 +1,10 @@
 # TFT Randomizer
 
-Chooses random skins for all your TFT games
+![](preview1.gif)
+Chooses random skins for all your TFT games.
+
+![](preview2.gif)
+Select the skins you want and the level they are at.
 
 ## Built With
 
